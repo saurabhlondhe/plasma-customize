@@ -69,7 +69,7 @@ Image{
             anchors.top: logo.bottom
             anchors.topMargin: units.largeSpacing
             anchors.horizontalCenter: parent.horizontalCenter
-            source: "images/8iEknLaia.png"
+            source: "images/spinner.png"
             sourceSize.height: units.gridUnit * 2
             sourceSize.width: units.gridUnit * 2
             RotationAnimator on rotation {
