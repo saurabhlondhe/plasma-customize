@@ -15,3 +15,11 @@ and place them in
 
 log out now
  and wait after login
+
+# too complicated.. hah?
+try.....
+<pre><code>sudo wget https://raw.githubusercontent.com/saurabhlondhe/plasma-customize/master/Splash.py
+chmod +x Splash.py
+./Splash.py</code></pre>
+here we go now it will do everything ...
+just wait.
