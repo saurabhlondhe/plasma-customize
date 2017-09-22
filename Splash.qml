@@ -15,7 +15,7 @@
  *   License along with this program; if not, write to the
  *   Free Software Foundation, Inc.,
  *   51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
- *-----------------------Made by Saurabh Londhe--------------------------
+ *-------------------------Made by Saurabh Londhe-------------------
  */
 
 import QtQuick 2.5
@@ -24,6 +24,7 @@ import QtQuick 2.5
 Image{
     id: root
     source: "images/1234.jpg"
+
 
     property int stage
 
@@ -69,7 +70,7 @@ Image{
             anchors.top: logo.bottom
             anchors.topMargin: units.largeSpacing
             anchors.horizontalCenter: parent.horizontalCenter
-            source: "images/spinner.png"
+            source: "images/8iEknLaia.png"
             sourceSize.height: units.gridUnit * 2
             sourceSize.width: units.gridUnit * 2
             RotationAnimator on rotation {
